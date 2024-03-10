@@ -32,7 +32,7 @@ To run this project, ensure you have Python 3 and `pip` installed for dependency
 
    ```sh
    # Start environment:
-   python3 -m venv mon_env_chrome
+   source mon_env_chrome/bin/activate
 
    # Stop environment:
    deactivate
