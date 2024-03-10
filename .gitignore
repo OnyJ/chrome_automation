@@ -1,0 +1,6 @@
+# Environment virtual directories
+mon_env_chrome/
+
+# Executable driver
+chromedriver
+
